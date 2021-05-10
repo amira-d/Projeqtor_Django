@@ -2,10 +2,10 @@ class EmbedToken:
     def __init__(self, report_id, group_id, settings=None):
         self.username = 'amira.doghri@esprit-tn.com'
         self.password = 'Xar65632'
-        self.client_id = '37ec6d54-b7f4-46a1-aa13-5b7a0a9bda86'
+        self.client_id = '219b6c97-3c14-4b5d-aa2d-612fb0aa4c9f'
         self.report_id = 'a3ec38c1-522f-4a49-8c76-26fb0caba298'
         self.group_id = '25bedcd7-8366-4c6d-8ce7-2a2bb4b48987'
-        self.client_secret = '8zIrt~_71NDOezbWVbymg3-C8gHcU1a2j.'
+        self.client_secret = 'fA6s3Q~o53t8ozQKA_XURh_lBlk35d_P9X'
         if settings is None:
             self.settings = {'accessLevel': 'View', 'allowSaveAs': 'false'}
         else:
