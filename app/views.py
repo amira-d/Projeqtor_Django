@@ -17,6 +17,32 @@ def index(request):
 
     html_template = loader.get_template( 'index.html' )
     return HttpResponse(html_template.render(context, request))
+@login_required(login_url="/login/")
+def charts(request):
+    
+    context = {}
+    context['segment'] = 'charts'
+
+    html_template = loader.get_template( 'pcharts.html' )
+    return HttpResponse(html_template.render(context, request))
+@login_required(login_url="/login/")
+def pcharts(request):
+    
+    context = {}
+    context['segment'] = 'pycharts'
+
+    html_template = loader.get_template( 'pycharts.html' )
+    return HttpResponse(html_template.render(context, request))
+@login_required(login_url="/login/")
+def pythondoc(request):
+    
+    context = {}
+    context['segment'] = 'pythondoc'
+
+    html_template = loader.get_template( 'pythondoc.html' )
+    return HttpResponse(html_template.render(context, request))
+    
+
 
 @login_required(login_url="/login/")
 def pages(request):
