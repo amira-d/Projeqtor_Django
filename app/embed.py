@@ -6,6 +6,7 @@ class EmbedToken:
         self.report_id = 'a3ec38c1-522f-4a49-8c76-26fb0caba298'
         self.group_id = '25bedcd7-8366-4c6d-8ce7-2a2bb4b48987'
         self.client_secret = 'fA6s3Q~o53t8ozQKA_XURh_lBlk35d_P9X'
+
         if settings is None:
             self.settings = {'accessLevel': 'View', 'allowSaveAs': 'false'}
         else:
@@ -20,8 +21,7 @@ class EmbedToken:
             'resource': r'https://analysis.windows.net/powerbi/api',
             'client_id': self.client_id,
             'username': self.username,
-            'password': self.password,
-            'client_secret' : self.client_secret
+            'password': self.password
         }
         response = requests.post('https://login.microsoftonline.com/common/oauth2/token', data=data)
         return response.json().get('access_token')
