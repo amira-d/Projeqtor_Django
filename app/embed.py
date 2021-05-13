@@ -20,7 +20,8 @@ class EmbedToken:
             'resource': r'https://analysis.windows.net/powerbi/api',
             'client_id': self.client_id,
             'username': self.username,
-            'password': self.password
+            'password': self.password,
+            'client_secret' : self.client_secret
         }
         response = requests.post('https://login.microsoftonline.com/common/oauth2/token', data=data)
         return response.json().get('access_token')
