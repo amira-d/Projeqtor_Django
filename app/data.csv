@@ -1,0 +1,325 @@
+﻿idProject,Category,Premier Delay,projectDuration,CLient,Date,paymentDone,ID_Phase,nb_phases
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,39,1
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,40,2
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,41,3
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,42,4
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,43,5
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,44,6
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,45,7
+1,Banque,On time,22,Client Talys 13,2018-02-19 00:00:00,0,46,8
+2,Assurance,Delayed,4,Client Talys 15,2018-02-19 00:00:00,0,1,7
+2,Assurance,Delayed,4,Client Talys 15,2018-02-19 00:00:00,0,2,9
+2,Assurance,Delayed,4,Client Talys 15,2018-02-19 00:00:00,0,3,11
+2,Assurance,Delayed,4,Client Talys 15,2018-02-19 00:00:00,0,87,13
+2,Assurance,Delayed,4,Client Talys 15,2018-02-19 00:00:00,0,179,15
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,12,46
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,13,50
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,14,54
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,15,58
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,16,62
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,113,66
+4,IT,Delayed,31,Client Talys 7,2018-02-19 00:00:00,0,234,70
+5,Banque,On time,36,Client Talys 6,2018-02-19 00:00:00,1,63,1
+6,Banque,Delayed,12,Client Talys 11,2018-02-19 00:00:00,0,34,148
+6,Banque,Delayed,12,Client Talys 11,2018-02-19 00:00:00,0,35,156
+6,Banque,Delayed,12,Client Talys 11,2018-02-19 00:00:00,0,36,164
+6,Banque,Delayed,12,Client Talys 11,2018-02-19 00:00:00,0,37,172
+6,Banque,Delayed,12,Client Talys 11,2018-02-19 00:00:00,0,38,180
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,17,341
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,18,352
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,19,363
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,20,374
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,21,385
+7,Assurance,Delayed,24,Client Talys 5,2018-02-19 00:00:00,0,228,396
+8,Banque,On time,36,Client Talys 4,2018-02-19 00:00:00,1,22,1
+10,Assurance,Delayed,17,Client Talys 16,2018-02-19 00:00:00,1,23,7
+10,Assurance,Delayed,17,Client Talys 16,2018-02-19 00:00:00,1,24,9
+10,Assurance,Delayed,17,Client Talys 16,2018-02-19 00:00:00,1,25,11
+10,Assurance,Delayed,17,Client Talys 16,2018-02-19 00:00:00,1,26,13
+10,Assurance,Delayed,17,Client Talys 16,2018-02-19 00:00:00,1,27,15
+11,Finance,Delayed,18,Client Talys 8,2018-02-19 00:00:00,0,130,1
+11,Finance,Delayed,18,Client Talys 8,2018-02-19 00:00:00,0,131,2
+11,Finance,Delayed,18,Client Talys 8,2018-02-19 00:00:00,0,132,3
+11,Finance,Delayed,18,Client Talys 8,2018-02-19 00:00:00,0,133,4
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,28,46
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,29,50
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,30,54
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,31,58
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,32,62
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,33,66
+13,IT,Delayed,23,Client Talys 1,2018-02-19 00:00:00,0,88,70
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,4,126
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,5,132
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,6,138
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,7,144
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,8,150
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,9,156
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,10,162
+15,Finance,On time,7,Client Talys 10,2018-02-19 00:00:00,0,11,168
+16,Finance,On time,11,Client Talys 3,2018-02-19 00:00:00,0,237,1
+21,Banque,Delayed,17,Client Talys 2,2018-02-19 00:00:00,0,71,1
+37,Finance,On time,18,Client Talys 17,2018-02-21 00:00:00,0,49,7
+37,Finance,On time,18,Client Talys 17,2018-02-21 00:00:00,0,50,9
+37,Finance,On time,18,Client Talys 17,2018-02-21 00:00:00,0,51,11
+37,Finance,On time,18,Client Talys 17,2018-02-21 00:00:00,0,52,13
+37,Finance,On time,18,Client Talys 17,2018-02-21 00:00:00,0,53,15
+38,Assurance,On time,15,Client Talys 21,2018-02-21 00:00:00,1,47,1
+38,Assurance,On time,15,Client Talys 21,2018-02-21 00:00:00,1,48,2
+39,Assurance,On time,22,Client Talys 22,2018-02-22 00:00:00,0,60,5
+39,Assurance,On time,22,Client Talys 22,2018-02-22 00:00:00,0,61,7
+39,Assurance,On time,22,Client Talys 22,2018-02-22 00:00:00,0,62,9
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,78,204
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,79,212
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,80,220
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,81,228
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,82,236
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,122,244
+43,Finance,Delayed,3,Client Talys 24,2018-02-27 00:00:00,1,238,252
+44,Finance,On time,13,Client Talys 25,2018-02-27 00:00:00,1,83,1
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,89,58
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,90,62
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,91,66
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,92,70
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,93,74
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,94,78
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,95,82
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,96,86
+45,Banque,Delayed,35,Client Talys 3,2018-03-06 00:00:00,1,145,90
+46,Finance,Delayed,30,Client Talys 3,2018-03-06 00:00:00,1,97,34
+46,Finance,Delayed,30,Client Talys 3,2018-03-06 00:00:00,1,98,38
+46,Finance,Delayed,30,Client Talys 3,2018-03-06 00:00:00,1,99,42
+46,Finance,Delayed,30,Client Talys 3,2018-03-06 00:00:00,1,100,46
+46,Finance,Delayed,30,Client Talys 3,2018-03-06 00:00:00,1,101,50
+47,IT,Delayed,16,Client Talys 27,2018-03-06 00:00:00,0,102,55
+47,IT,Delayed,16,Client Talys 27,2018-03-06 00:00:00,0,103,60
+47,IT,Delayed,16,Client Talys 27,2018-03-06 00:00:00,0,104,65
+47,IT,Delayed,16,Client Talys 27,2018-03-06 00:00:00,0,105,70
+47,IT,Delayed,16,Client Talys 27,2018-03-06 00:00:00,0,232,75
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,106,24
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,107,27
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,108,30
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,109,33
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,110,36
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,111,39
+48,IT,Delayed,14,Client Talys 28,2018-03-06 00:00:00,1,112,42
+49,Finance,On time,17,Client Talys 29,2018-03-06 00:00:00,1,116,3
+50,IT,Delayed,13,Client Talys 29,2018-03-06 00:00:00,0,117,5
+50,IT,Delayed,13,Client Talys 29,2018-03-06 00:00:00,0,118,7
+50,IT,Delayed,13,Client Talys 29,2018-03-06 00:00:00,0,119,9
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,151,24
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,152,27
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,153,30
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,154,33
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,155,36
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,156,39
+55,Finance,On time,14,Client Talys 30,2018-04-16 00:00:00,1,157,42
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,158,1242
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,159,1260
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,160,1278
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,161,1296
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,162,1314
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,163,1332
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,263,1350
+56,IT,Delayed,13,Client Talys 15,2018-05-09 00:00:00,1,264,1368
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,165,261
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,166,270
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,167,279
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,168,288
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,169,297
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,249,306
+57,Finance,Delayed,33,Client Talys 31,2018-05-14 00:00:00,1,275,315
+58,IT,Delayed,23,Client Talys 32,2018-05-28 00:00:00,1,175,6
+58,IT,Delayed,23,Client Talys 32,2018-05-28 00:00:00,1,176,8
+58,IT,Delayed,23,Client Talys 32,2018-05-28 00:00:00,1,177,10
+58,IT,Delayed,23,Client Talys 32,2018-05-28 00:00:00,1,178,12
+59,Assurance,On time,27,Client Talys 33,2018-10-22 00:00:00,1,184,1
+60,Banque,Delayed,8,Client Talys 34,2018-10-26 00:00:00,0,185,81
+60,Banque,Delayed,8,Client Talys 34,2018-10-26 00:00:00,0,186,87
+60,Banque,Delayed,8,Client Talys 34,2018-10-26 00:00:00,0,187,93
+60,Banque,Delayed,8,Client Talys 34,2018-10-26 00:00:00,0,188,99
+60,Banque,Delayed,8,Client Talys 34,2018-10-26 00:00:00,0,189,105
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,190,70
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,191,74
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,192,78
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,193,82
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,194,86
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,195,90
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,196,94
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,197,98
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,198,102
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,199,106
+61,Assurance,Delayed,24,Client Talys 35,2018-10-29 00:00:00,0,200,110
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,201,65
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,202,70
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,203,75
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,204,80
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,205,85
+62,Finance,Delayed,12,Client Talys 36,2018-10-29 00:00:00,0,221,90
+63,Finance,On time,18,Client Talys 38,2018-11-22 00:00:00,1,212,1
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,215,111
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,216,117
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,217,123
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,218,129
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,219,135
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,220,141
+64,Assurance,Delayed,9,Client Talys 39,2018-11-22 00:00:00,0,364,147
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,222,133
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,223,140
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,224,147
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,225,154
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,226,161
+65,IT,Delayed,9,Client Talys 37,2018-11-27 00:00:00,0,230,168
+66,Banque,Delayed,20,Client Talys 40,2019-01-04 00:00:00,1,241,34
+66,Banque,Delayed,20,Client Talys 40,2019-01-04 00:00:00,1,242,38
+66,Banque,Delayed,20,Client Talys 40,2019-01-04 00:00:00,1,245,42
+66,Banque,Delayed,20,Client Talys 40,2019-01-04 00:00:00,1,246,46
+66,Banque,Delayed,20,Client Talys 40,2019-01-04 00:00:00,1,247,50
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,254,506
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,255,517
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,256,528
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,257,539
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,258,550
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,259,561
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,260,572
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,306,583
+67,Assurance,Delayed,18,Client Talys 7,2019-03-15 00:00:00,0,377,594
+68,IT,Delayed,17,Client Talys 41,2019-04-24 00:00:00,1,265,16
+68,IT,Delayed,17,Client Talys 41,2019-04-24 00:00:00,1,266,20
+69,Banque,On time,14,Client Talys 42,2019-05-03 00:00:00,0,267,1
+69,Banque,On time,14,Client Talys 42,2019-05-03 00:00:00,0,268,2
+69,Banque,On time,14,Client Talys 42,2019-05-03 00:00:00,0,269,3
+70,Banque,On time,10,Client Talys 7,2019-05-23 00:00:00,0,270,3
+71,IT,Delayed,7,Client Talys 32,2019-07-03 00:00:00,0,272,5
+71,IT,Delayed,7,Client Talys 32,2019-07-03 00:00:00,0,273,7
+71,IT,Delayed,7,Client Talys 32,2019-07-03 00:00:00,0,274,9
+73,Finance,Delayed,18,Client Talys 44,2019-09-10 00:00:00,0,278,112
+73,Finance,Delayed,18,Client Talys 44,2019-09-10 00:00:00,0,279,119
+73,Finance,Delayed,18,Client Talys 44,2019-09-10 00:00:00,0,319,126
+73,Finance,Delayed,18,Client Talys 44,2019-09-10 00:00:00,0,320,133
+73,Finance,Delayed,18,Client Talys 44,2019-09-10 00:00:00,0,340,140
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,280,126
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,281,132
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,282,138
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,283,144
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,284,150
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,285,156
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,286,162
+74,Assurance,Delayed,1,Client Talys 11,2019-09-24 00:00:00,1,390,168
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,287,261
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,288,267
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,289,273
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,290,279
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,322,285
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,323,291
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,324,297
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,325,303
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,326,309
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,327,315
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,328,321
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,329,327
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,330,333
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,342,339
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,435,345
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,436,351
+75,Banque,Delayed,3,Client Talys 45,2019-09-24 00:00:00,1,437,357
+76,IT,On time,3,Client Talys 43,2019-11-05 00:00:00,1,293,55
+76,IT,On time,3,Client Talys 43,2019-11-05 00:00:00,1,294,60
+76,IT,On time,3,Client Talys 43,2019-11-05 00:00:00,1,295,65
+76,IT,On time,3,Client Talys 43,2019-11-05 00:00:00,1,296,70
+76,IT,On time,3,Client Talys 43,2019-11-05 00:00:00,1,297,75
+77,Assurance,Delayed,15,Client Talys 46,2019-12-04 00:00:00,0,298,112
+77,Assurance,Delayed,15,Client Talys 46,2019-12-04 00:00:00,0,299,119
+77,Assurance,Delayed,15,Client Talys 46,2019-12-04 00:00:00,0,300,126
+77,Assurance,Delayed,15,Client Talys 46,2019-12-04 00:00:00,0,301,133
+77,Assurance,Delayed,15,Client Talys 46,2019-12-04 00:00:00,0,302,140
+78,Finance,Delayed,10,Client Talys 47,2020-01-07 00:00:00,0,310,5
+78,Finance,Delayed,10,Client Talys 47,2020-01-07 00:00:00,0,311,7
+78,Finance,Delayed,10,Client Talys 47,2020-01-07 00:00:00,0,312,9
+80,Assurance,Delayed,6,Client Talys 48,2020-01-21 00:00:00,1,314,81
+80,Assurance,Delayed,6,Client Talys 48,2020-01-21 00:00:00,1,315,87
+80,Assurance,Delayed,6,Client Talys 48,2020-01-21 00:00:00,1,316,93
+80,Assurance,Delayed,6,Client Talys 48,2020-01-21 00:00:00,1,317,99
+80,Assurance,Delayed,6,Client Talys 48,2020-01-21 00:00:00,1,318,105
+81,Finance,Delayed,11,Client Talys 49,2020-03-30 00:00:00,0,334,15
+81,Finance,Delayed,11,Client Talys 49,2020-03-30 00:00:00,0,335,18
+81,Finance,Delayed,11,Client Talys 49,2020-03-30 00:00:00,0,336,21
+81,Finance,Delayed,11,Client Talys 49,2020-03-30 00:00:00,0,337,24
+82,Finance,On time,10,Client Talys 51,2020-03-31 00:00:00,1,343,10
+85,IT,Delayed,2,Client Talys 50,2020-05-06 00:00:00,0,360,12
+85,IT,Delayed,2,Client Talys 50,2020-05-06 00:00:00,0,361,15
+85,IT,Delayed,2,Client Talys 50,2020-05-06 00:00:00,0,362,18
+86,Assurance,Delayed,4,Client Talys 52,2020-05-13 00:00:00,1,365,28
+87,Banque,On time,7,Client Talys 53,2020-05-29 00:00:00,1,374,1
+87,Banque,On time,7,Client Talys 53,2020-05-29 00:00:00,1,375,2
+87,Banque,On time,7,Client Talys 53,2020-05-29 00:00:00,1,376,3
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,379,76
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,380,80
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,381,84
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,382,88
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,383,92
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,384,96
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,391,100
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,392,104
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,393,108
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,394,112
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,395,116
+88,IT,Delayed,7,Client Talys 54,2020-06-02 00:00:00,1,396,120
+89,IT,Delayed,6,Client Talys 32,2020-06-08 00:00:00,0,387,92
+89,IT,Delayed,6,Client Talys 32,2020-06-08 00:00:00,0,388,100
+89,IT,Delayed,6,Client Talys 32,2020-06-08 00:00:00,0,389,108
+90,Banque,On time,8,Client Talys 55,2020-06-29 00:00:00,1,399,1
+91,Assurance,On time,0,Client Talys 24,2020-09-07 00:00:00,1,404,34
+91,Assurance,On time,0,Client Talys 24,2020-09-07 00:00:00,1,405,38
+91,Assurance,On time,0,Client Talys 24,2020-09-07 00:00:00,1,406,42
+91,Assurance,On time,0,Client Talys 24,2020-09-07 00:00:00,1,407,46
+91,Assurance,On time,0,Client Talys 24,2020-09-07 00:00:00,1,408,50
+92,IT,Delayed,1,Client Talys 56,2020-09-07 00:00:00,1,410,9
+92,IT,Delayed,1,Client Talys 56,2020-09-07 00:00:00,1,411,12
+93,Assurance,Delayed,1,Client Talys 54,2020-09-17 00:00:00,1,414,45
+93,Assurance,Delayed,1,Client Talys 54,2020-09-17 00:00:00,1,415,50
+93,Assurance,Delayed,1,Client Talys 54,2020-09-17 00:00:00,1,416,55
+93,Assurance,Delayed,1,Client Talys 54,2020-09-17 00:00:00,1,417,60
+94,Banque,Delayed,6,Client Talys 32,2020-10-06 00:00:00,0,430,4
+94,Banque,Delayed,6,Client Talys 32,2020-10-06 00:00:00,0,431,6
+96,IT,On time,1,Client Talys 56,2020-11-09 00:00:00,1,440,18
+96,IT,On time,1,Client Talys 56,2020-11-09 00:00:00,1,441,21
+96,IT,On time,1,Client Talys 56,2020-11-09 00:00:00,1,442,24
+96,IT,On time,1,Client Talys 56,2020-11-09 00:00:00,1,443,27
+96,IT,On time,1,Client Talys 56,2020-11-09 00:00:00,1,444,30
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,445,550
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,446,560
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,447,570
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,448,580
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,449,590
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,450,600
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,476,610
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,477,620
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,478,630
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,479,640
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,480,650
+97,Banque,Delayed,4,Client Talys 45,2020-11-09 00:00:00,1,481,660
+98,IT,Delayed,2,Client Talys 36,2020-11-18 00:00:00,1,451,81
+98,IT,Delayed,2,Client Talys 36,2020-11-18 00:00:00,1,452,87
+98,IT,Delayed,2,Client Talys 36,2020-11-18 00:00:00,1,454,93
+98,IT,Delayed,2,Client Talys 36,2020-11-18 00:00:00,1,455,99
+98,IT,Delayed,2,Client Talys 36,2020-11-18 00:00:00,1,475,105
+99,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,456,81
+99,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,457,87
+99,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,458,93
+99,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,459,99
+99,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,460,105
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,462,96
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,463,102
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,464,108
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,465,114
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,466,120
+100,Finance,Delayed,2,Client Talys 32,2020-11-23 00:00:00,0,467,126
+101,Finance,Delayed,4,Client Talys 46,2020-11-26 00:00:00,0,468,112
+101,Finance,Delayed,4,Client Talys 46,2020-11-26 00:00:00,0,469,119
+101,Finance,Delayed,4,Client Talys 46,2020-11-26 00:00:00,0,470,126
+101,Finance,Delayed,4,Client Talys 46,2020-11-26 00:00:00,0,471,133
+101,Finance,Delayed,4,Client Talys 46,2020-11-26 00:00:00,0,472,140
+102,Finance,Delayed,3,Client Talys 57,2021-01-20 00:00:00,1,482,6
+102,Finance,Delayed,3,Client Talys 57,2021-01-20 00:00:00,1,483,8
+102,Finance,Delayed,3,Client Talys 57,2021-01-20 00:00:00,1,484,10
+102,Finance,Delayed,3,Client Talys 57,2021-01-20 00:00:00,1,485,12

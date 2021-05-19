@@ -1,0 +1,116 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Dashboard {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <!-- [ breadcrumb ] start -->
+        <div class="page-header">
+            <div class="page-block">
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="page-header-title">
+                            <h5 class="m-b-10">Prediction Model</h5>
+                        </div>
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                            <li class="breadcrumb-item"><a href="javascript:">Analysis Details</a></li>
+                            <li class="breadcrumb-item"><a href="javascript:">Predictive analysis</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- [ breadcrumb ] end -->
+        <div class="main-body">
+            <div class="page-wrapper">
+                {{graph | safe}}
+
+<div class="card">
+    <div class="card-header">
+        <h5>Delay Prediction</h5>
+    </div>
+    <div class="card-body">
+        <p>This prediction model needs information about the project to predict the delays that may happen . Please select the different features in order to give you the desired prediction .</p>
+        <form method="POST" action="predict/">
+        {% csrf_token %}
+        <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Project Title</span>
+                        </div>
+
+                        <input type="text" class="form-control" name="title" placeholder="Project Title : Only for display purposes , it doesn't affect the prediction " aria-label="Username" aria-describedby="basic-addon1">
+        </div>
+
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">Sector</label>
+                            <select class="form-control" id="exampleFormControlSelect1" name="sector">
+                                <option></option>
+                                <option>Banking</option>
+                                <option>Assurance</option>
+                                <option>IT</option>
+                                <option>Finance</option>
+                            </select>
+                        </div>
+
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">Client</span>
+                            </div>
+    
+                            <input type="text" name="client" class="form-control" placeholder="Client : Only for display purposes , it doesn't affect the prediction " aria-label="Username" aria-describedby="basic-addon1">
+                        </div>
+                        <label for="exampleFormControlSelect1">Project Duration ( Approximately )</label>
+
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Months</span>
+                            </div>
+                            <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="duration">
+                            <div class="input-group-append">
+                                <span class="input-group-text">.00</span>
+                            </div>
+                        </div>
+
+                        <label for="exampleFormControlSelect1">Number of phases ( Approximately )</label>
+
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text">Phases</span>
+                            </div>
+                            <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" name="nb_phases">
+                            <div class="input-group-append">
+                                <span class="input-group-text">.00</span>
+                            </div>
+                        </div>
+                        <div class="btn-group mb-2 mr-2" style="width: 40px ;">
+                            <input type="submit" value="Predict" class="btn btn-success">
+
+                            <button type="button" class="btn btn-success dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Toggle Dropdown</span></button>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="#!">KNN</a>
+                                <a class="dropdown-item" href="#!">Decision Tree</a>
+                                <a class="dropdown-item" href="#!">Logistic Rregression</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#!">Naive Bai</a>
+                            </div>
+                        </div>
+                    </form>
+                    <script>
+                        alert('{{ message }}');
+                    </script>
+
+                </div>
+          </div>   
+
+          </div>
+          </div>
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

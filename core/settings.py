@@ -77,14 +77,14 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME'  : 'db.sqlite3',
     },
-    'post': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'projeqtor',
-        'USER': 'postgres',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
-        'PORT': 5432,  
-    }
+    #'post': {
+       # 'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        #'NAME': 'projeqtor',
+        #'USER': 'postgres',
+        #'PASSWORD': '1234',
+        #'HOST': 'localhost',
+        #'PORT': 5432,  
+    #}
 }
 
 # Password validation
